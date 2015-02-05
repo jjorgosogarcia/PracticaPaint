@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_guardar">Guardar Foto</string>
+    <string name="action_cargar">Cargar Foto</string>
+    <string name="action_relleno">Relleno</string>
+    <string name="action_nuevo">Quieres un lienzo nuevo?</string>
+    <string name="grosor">Elija el grosor</string>
+    <string name="selectorGrosor">Grosor</string>
+</resources>

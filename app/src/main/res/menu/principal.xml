@@ -1,0 +1,60 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal" >
+    <item
+        android:id="@+id/pintar"
+        android:icon="@drawable/pintar"
+        android:showAsAction="always"
+        android:title="pintar" />
+    <item
+        android:id="@+id/recta"
+        android:icon="@drawable/recta"
+        android:showAsAction="always"
+        android:title="recta" />
+    <item
+        android:id="@+id/rectangulo"
+        android:icon="@drawable/rectangulo"
+        android:showAsAction="always"
+        android:title="rectangulo" />
+    <item
+        android:id="@+id/circulo"
+        android:icon="@drawable/circulo"
+        android:showAsAction="always"
+        android:title="circulo" />
+    <item
+        android:id="@+id/color"
+        android:icon="@drawable/color"
+        android:showAsAction="always"
+        android:title="color" />
+    <item
+        android:id="@+id/borrar"
+        android:icon="@drawable/goma"
+        android:showAsAction="always"
+        android:title="goma" />
+
+    <item
+        android:id="@+id/nuevo"
+        android:icon="@drawable/nuevo"
+        android:showAsAction="always"
+        android:title="nuevo" />
+
+    <item android:id="@+id/action_guardar"
+        android:title="@string/action_guardar"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_cargar"
+        android:title="@string/action_cargar"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_relleno"
+        android:title="@string/action_relleno"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_selector"
+        android:title="@string/selectorGrosor"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
